@@ -106,7 +106,7 @@ const Search = ({navigation}) => {
     } ,
     textInput: {
       height: '60%',
-      width: 270,
+      width: '70%',
       backgroundColor:'gray',
       position: "absolute",
       marginLeft: 40,
